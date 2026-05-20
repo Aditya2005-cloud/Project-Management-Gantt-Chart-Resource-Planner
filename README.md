@@ -48,3 +48,6 @@ This project demonstrates the use of Excel for:
 Author
 
 Developed as an academic/project management dashboard project using Microsoft Excel.
+
+
+<img width="1211" height="526" alt="image" src="https://github.com/user-attachments/assets/cc766922-6614-4046-929b-37bf1505e727" />
