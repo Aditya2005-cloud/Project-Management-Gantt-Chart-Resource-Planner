@@ -45,7 +45,6 @@ This project demonstrates the use of Excel for:
 - Task Monitoring
 - Reporting and Visualization
 
-Author
 
 Developed as an academic/project management dashboard project using Microsoft Excel.
 
